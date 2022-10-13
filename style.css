@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(48, 160, 50);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+.main {
+    text-align: center;
+    list-style-type: none;
+}
+h2, h3 {
+    text-align: center;
+}
+.description {
+    text-align: center;
+}
